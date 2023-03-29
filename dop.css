@@ -1,0 +1,38 @@
+
+
+.glavni{
+    margin-left: 50px; 
+}
+table td{
+    font-size: 13px;
+    width: 35px;
+    height: 35px;
+ border :2px solid black;   
+   
+}
+td{
+    border-radius: 5px;
+}
+/* caption{
+    padding:15px;
+    letter-spacing: 10px;
+} */
+td{
+    text-align: center;
+}
+table td:hover{
+    /* color:white; */
+    /* background-color: rgba(18, 180, 18, 0.918); */
+}
+/* .key::first-letter{
+    color:blue
+} */
+/* .yellow{
+    background-color: yellow;
+} */
+/* .black{
+    background-color: black;
+    color:yellow;
+} */
+
+
